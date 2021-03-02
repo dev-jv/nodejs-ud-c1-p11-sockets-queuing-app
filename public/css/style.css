@@ -1,0 +1,34 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.2);
+    color: white;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.current-ticket {
+    background-color: white;
+    color: darkcyan;
+}
+
+.current-ticket-number {
+    font-size: 80px;
+}
+
+.current-ticket-desktop {
+    font-size: 45px;
+}
+
+.secondary-ticket {
+    font-size: 25px;
+}
+
+#lblNewTicket {
+    font-size: 100px;
+}
